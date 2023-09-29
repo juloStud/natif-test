@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAYcOSQl6YTGjqSwjSOtGIxa94fI7vrzHlZ+1pOcY+a8XmJJisvbjelVinh5/CA6z3T9iv49Aicw/4hFGvMpsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jules\\testNatif\\natif-test\\exercice 2\\exercice 2\\exercice 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jules\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.21\\microsoft.netcore.app.host.win-x86.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
